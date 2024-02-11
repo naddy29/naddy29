@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @naddy29
+- 👋 Hi, I’m Nandini Rudraraju
 - 👀 I’m interested in AI and ML, I'm dedicated to learning and exploring the latest advancements in the field.
 - 🌱 I’m currently learning java, mysql and Machine Learning.
 - 💞️ I’m looking to collaborate on on Java, Python, HTML, and CSS projects
-- 📫 How to reach me ...
+- 📫 How to reach me www.linkedin.com/in/nandinirudraraju
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 
